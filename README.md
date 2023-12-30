@@ -1,2 +1,4 @@
-# WHATSAPP-CHAT-ANALYSIS-
-A WhatsApp chat analysis project involves examining data from WhatsApp conversations to derive insights or perform various analyses.
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
